@@ -1,5 +1,3 @@
-Here’s a polished description you can use for your plugin on GitHub:
-
 Dropzone Uploader for WordPress
 
 A WordPress plugin that integrates Dropzone.js to enable drag-and-drop image uploads with a modern interface. This plugin allows users to upload multiple images to a single post, with the ability to define an assignment slug and category. Designed for seamless post creation and multimedia management.
